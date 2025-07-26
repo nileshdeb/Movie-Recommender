@@ -19,4 +19,4 @@ TMDb API for fetching poster images
 ⚠️ Note
 Due to TMDb being blocked in India, I cannot deploy the app publicly right now. However, the app runs perfectly on localhost, and you can access full functionality including movie posters by using a VPN while running it locally.
 
- Sample Output:
+ Sample Output: https://github.com/nileshdeb/Movie-Recommender/blob/main/Movie_recommender_screenshot.png

@@ -8,7 +8,7 @@ A content-based movie recommendation system that suggests the top 5 similar movi
 
 ##  Demo Preview
 
-![App Screenshot](./screenshot.png) <!-- Replace with your actual image path -->
+![App Screenshot](https://github.com/nileshdeb/Movie-Recommender/blob/main/Movie_recommender_screenshot.png) 
 
 ---
 
